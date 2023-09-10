@@ -58,3 +58,4 @@ public class Customer {
 				"이며, 보너스 포인트는 " + bonusPoint + "입니다";
 	}
 }
+
